@@ -1,2 +1,2 @@
-# -NBIOTBG96SHIELD-Azure-example
-BG96 Shield on ST Nucleo Azure example
+# BG96NBIoTShield
+BG96 example of Azure connection, derived from FP-CLD-AZURE1 ST example

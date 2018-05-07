@@ -1,0 +1,9 @@
+stm32f4xx-nucleo\parson.o: ..\..\..\..\..\..\Middlewares\Third_Parties\Azure-IoT-SDK-C\parson\parson.c
+stm32f4xx-nucleo\parson.o: ..\..\..\..\..\..\Middlewares\Third_Parties\Azure-IoT-SDK-C\parson\parson.h
+stm32f4xx-nucleo\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f4xx-nucleo\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32f4xx-nucleo\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32f4xx-nucleo\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f4xx-nucleo\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+stm32f4xx-nucleo\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+stm32f4xx-nucleo\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h

@@ -1,0 +1,10 @@
+stm32f4xx-nucleo\platform.o: ..\..\..\..\..\..\Middlewares\Third_Parties\mbedtls\library\platform.c
+stm32f4xx-nucleo\platform.o: ..\..\Inc\mbedtls_config.h
+stm32f4xx-nucleo\platform.o: ..\..\..\..\..\..\Middlewares\Third_Parties\mbedtls\include\mbedtls/check_config.h
+stm32f4xx-nucleo\platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+stm32f4xx-nucleo\platform.o: ..\..\..\..\..\..\Middlewares\Third_Parties\mbedtls\include\mbedtls/platform.h
+stm32f4xx-nucleo\platform.o: ..\..\..\..\..\..\Middlewares\Third_Parties\mbedtls\include\mbedtls/platform_time.h
+stm32f4xx-nucleo\platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+stm32f4xx-nucleo\platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32f4xx-nucleo\platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32f4xx-nucleo\platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
